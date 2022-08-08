@@ -1,4 +1,5 @@
 * Consultant Physician (Diabetes & Endocrinology). Gartnavel General Hospital | Queen Elizabeth University Hospital, Glasgow
+* NHS Scotland Innovation Fellow
 * Hon Senior Research Fellow. Institute of Applied Health Research, University of Birmingham
 * Hon Clinical Senior Lecturer. Institute of Cardiovascular and Medical Sciences, University of Glasgow
 
