@@ -1,7 +1,7 @@
 * Consultant Physician (Diabetes & Endocrinology). Gartnavel General Hospital | Queen Elizabeth University Hospital, Glasgow
-* CSO Innovation Fellow
 * Hon Senior Research Fellow. Institute of Applied Health Research, University of Birmingham
 * Hon Clinical Senior Lecturer. Institute of Cardiovascular and Medical Sciences, University of Glasgow
+* CSO Innovation Fellow
 
 <!--
 **csainsbury/csainsbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
